@@ -5,8 +5,9 @@ html
 
 .image1
     {
-        align-items: center;
-        width: 300px;
+        margin: auto;
+        display: block;
+        width: 600px;
         height: auto;
     }
 
